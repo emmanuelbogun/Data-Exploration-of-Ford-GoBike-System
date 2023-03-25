@@ -1,4 +1,4 @@
-# (Data Exploration of GoFordBike-System)
+# (Data Exploration of Ford GoBike-System)
 ## by (Emmanuel Olorunbogun)
 
 ## Dataset
